@@ -46,7 +46,7 @@ https://visualstudio.microsoft.com/downloads/
 
 Compiling the daemon (bitconnectxd) on Linux is done directly within this folder *(src)* - https://github.com/bitconnectXcore/bitconnectX-Genesis/tree/master/src | **/bitconnectX-Genesis/src**
 
-Compiling the wallet (bitconnectx-qt) on Linux is done directly within this folder *(bitconnectX-Genesis)* - https://github.com/bitconnectXcore/bitconnectX-Genesis/ **/bitconnectX-Genesis/**
+Compiling the wallet (bitconnectx-qt) on Linux is done directly within this folder *(bitconnectX-Genesis)* - https://github.com/bitconnectXcore/bitconnectX-Genesis/ **/bitconnectX-Genesis**
 
 Building the LevelDB files on Linux is done directly within this folder *(leveldb)* - https://github.com/bitconnectXcore/bitconnectX-Genesis/tree/master/src/leveldb **/bitconnectX-Genesis/src/leveldb**
 
