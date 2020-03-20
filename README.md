@@ -22,7 +22,7 @@
 
 **VirtualBox**
 
-https://www.virtualbox.org **|** Ubuntu Software Centre
+https://www.virtualbox.org **|** Ubuntu Software Centre App
 
 **QT Creator**
 
