@@ -2,9 +2,9 @@
 
 **Compile An Open-Source BlockChain Crypto-Currency For Linux, ~~Windows Or Mac~~.**
 
-**Changes From The Original:** [List](https://github.com/bitconnectXcore/bitconnectX-Genesis/commits/master "List") **|** [Log](https://github.com/bitconnectXcore/bitconnectX-Genesis#change-log "Log")
-
 **The Original bitconnectX Release:** [bitconnectX](https://github.com/bitconnectCoin/bitconnectX "bitconnectX")
+
+**Changes From The Original:** [List](https://github.com/bitconnectXcore/bitconnectX-Genesis/commits/master "List") **|** [Log](https://github.com/bitconnectXcore/bitconnectX-Genesis#change-log "Log")
 
 **Original Build Documents:** [QT](https://github.com/bitconnectCoin/bitconnectX/blob/master/doc/readme-qt.rst "QT") **|** [Unix](https://github.com/bitconnectCoin/bitconnectX/blob/master/doc/build-unix.txt "Unix") **|** [Windows](https://github.com/bitconnectCoin/bitconnectX/blob/master/doc/build-msw.txt "Windows") **|** [Mac](https://github.com/bitconnectCoin/bitconnectX/blob/master/doc/build-osx.txt "Mac")
 
